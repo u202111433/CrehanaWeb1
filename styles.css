@@ -1,0 +1,73 @@
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FFA22A;
+    color: #4F3F84;
+}
+
+header {
+    background-color: #4F3F84;
+    color: #FFA22A;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #FFA22A;
+    text-decoration: none;
+}
+
+.hero {
+    text-align: center;
+    margin: 50px 0;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: #4F3F84;
+    color: #FFA22A;
+    text-align: center;
+    padding: 20px;
+}
+
+.social-media a {
+    color: #FFA22A;
+    margin: 0 10px;
+    font-size: 24px;
+}
+
+form label, form input, form textarea {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+form button {
+    background-color: #FF662A;
+    color: #FFA22A;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.store-badges img {
+    width: 150px;
+    margin: 10px;
+}
